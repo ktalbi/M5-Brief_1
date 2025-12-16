@@ -24,5 +24,6 @@ jobs:
 
       - name: Run tests
         run: |
-          export PYTHONPATH="$PWD"
-          pytest -q
+            cd backend
+            export PYTHONPATH="$PWD"
+            pytest -q
