@@ -1,0 +1,4 @@
+2025-12-16 16:58:22.553 | INFO     | main:<module>:9 - Logger initialisé
+2025-12-16 16:58:33.382 | INFO     | modules.calcul:calcul_carre:4 - Calcul du carré de 6
+2025-12-16 17:06:20.228 | INFO     | main:<module>:9 - Logger initialisé
+2025-12-16 17:06:34.824 | INFO     | modules.calcul:calcul_carre:4 - Calcul du carré de 8
